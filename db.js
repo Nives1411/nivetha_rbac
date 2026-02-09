@@ -1,6 +1,6 @@
 const mysql = require("mysql2");
 
-console.log("🔥 DB FILE LOADED 🔥");
+console.log("🔥 USING UPDATED DB.JS FILE 🔥");
 
 const db = mysql.createConnection({
   host: "localhost",
